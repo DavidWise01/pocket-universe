@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1350
+slug  : pocket-universe
+seal  : c66617b79c20f970ee7d254954a1ed97146605b0c9f5428216a915bd4a00a6c4
+prev  : 493e50fee09c7cbe9c6268f18e75205b644c20ee1a7d88863867eb7af21f7e05
+link  : 4fbf6433d5c23aac34ab267076cb34aa392e9c937ac5153a89723e31a605d53b
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
