@@ -18,4 +18,4 @@ A repository in the UD0 biosphere, governed under the TriPod framework. The live
 
 **Live workbench:** https://davidwise01.github.io/pocket-universe/temporal-portals.html
 
-ACI(n) v2.1.0 separates the six-hop control route from a six-universe transport-plane simulator: `QD IN → n((_--_)) → QD OUT`. The runtime conserves one named software dot in exactly one modeled location and exports a deterministic witness. “Temporal” means ordered browser ticks; it makes no physical quantum-transport or time-travel claim.
+ACI(n) v2.2.0 adds a keyed torus topology gate before the six-universe transport plane. One minted token opens the virtual collision mask for exactly `0.000000027 s`—27 logical ticks—and grants one non-replayable crossing into `QD IN → n((_--_)) → QD OUT`. The runtime exports deterministic pulse and transport witnesses. The model makes no physical EMP, quantum-transport, wall-destruction, or time-travel claim.
