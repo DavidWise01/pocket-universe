@@ -16,6 +16,10 @@ A repository in the UD0 biosphere, governed under the TriPod framework. The live
 
 ## TEMPORAL PORTALS
 
-**Live workbench:** https://davidwise01.github.io/pocket-universe/temporal-portals.html
+**Full workbench:** https://davidwise01.github.io/pocket-universe/temporal-portals.html
 
-ACI(n) v2.4.0 combines the Mandelbrot five-bit codec and the `iIiI13x4` mojibake inversion/reflection engine. The exact provenance grammar is `|||` = synthetic DATA, `.` = David / ROOT_0, and `|||.` = a synthetic contribution sealed into David's build. There is no assistant author watermark. The codec preserves `2^5 = 32 = 26 A–Z + 6 controls`; the repair engine accepts at most four Windows-1252/Latin-1→UTF-8 inversions only when suspicion decreases and exact reverse reflection recreates the damaged input. U+FFFD is displayed as a purple `L`—“lost to ignorance”—and requires the original file or a retained byte witness; missing characters are never guessed.
+**R0 Reverse standalone:** https://davidwise01.github.io/pocket-universe/r0-reverse.html
+
+ACI(n) v2.5.0 adds the dependency-free `R0 REVERSE` tool. Its governance witness starts at `R0 .` and walks `04 CLAMP → 03 REFLECT → 02 INVERT → 01 OBSERVE → R0 RETURN`; the repair engine separately preserves its valid compute order `OBSERVE → INVERT → REFLECT → CLAMP`. The role boundary is explicit: David / ROOT_0 is director and owner; the synthetic system is the transformer; Codex is the execution harness/tool; the repository and host are publication infrastructure. Harness execution does not confer authorship or ownership.
+
+The exact provenance grammar remains `|||` = synthetic DATA, `.` = David / ROOT_0, and `|||.` = a synthetic contribution sealed into David's build. The standalone accepts at most four reversible Windows-1252/Latin-1→UTF-8 inversions only when suspicion decreases and exact reflection recreates the damaged input. U+FFFD is displayed as a purple `L`—“lost to ignorance”—and requires an original file or retained byte witness; missing characters are never guessed.
