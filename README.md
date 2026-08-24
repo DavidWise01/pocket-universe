@@ -18,4 +18,4 @@ A repository in the UD0 biosphere, governed under the TriPod framework. The live
 
 **Live workbench:** https://davidwise01.github.io/pocket-universe/temporal-portals.html
 
-ACI(n) v2.2.0 adds a keyed torus topology gate before the six-universe transport plane. One minted token opens the virtual collision mask for exactly `0.000000027 s`—27 logical ticks—and grants one non-replayable crossing into `QD IN → n((_--_)) → QD OUT`. The runtime exports deterministic pulse and transport witnesses. The model makes no physical EMP, quantum-transport, wall-destruction, or time-travel claim.
+ACI(n) v2.3.0 adds the Mandelbrot five-bit provenance codec: `2^5 = 32`, partitioned into 26 A–Z codes and 6 reserved controls. Frames use `.begin`, `|||` for declared machine-produced provenance, `|||.dlw` for a locally reviewed/corrected/sealed declaration, and `.end`. A mutation harness flips one cell, detects the checksum mismatch, and restores only from its retained witness copy. Bulges `1, 5, 8` are recorded as selected Fibonacci addresses—not consecutive terms. These provenance tags are declared metadata, not cryptographic identity signatures.
